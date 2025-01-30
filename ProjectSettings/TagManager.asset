@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Interactable
   - End
+  - Pause menu
   layers:
   - Default
   - TransparentFX
