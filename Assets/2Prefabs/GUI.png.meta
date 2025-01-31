@@ -139,7 +139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUI_4
+      name: SliderE
       rect:
         serializedVersion: 2
         x: 51
@@ -148,7 +148,7 @@ TextureImporter:
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 2, z: 3, w: 2}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2007,6 +2007,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: SliderF
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 258
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cec7bb97608c44180ab3623241bdd7
+      internalID: -1976476524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2018,7 +2039,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GUI_0: -1744228968
       GUI_1: 1513625862
       GUI_10: 1911150673
       GUI_11: -1823157290
@@ -2047,7 +2067,6 @@ TextureImporter:
       GUI_37: -1261485090
       GUI_38: -1363506621
       GUI_39: -909228333
-      GUI_4: 535971923
       GUI_40: 420341360
       GUI_41: 1773787807
       GUI_42: 743356380
@@ -2103,6 +2122,8 @@ TextureImporter:
       GUI_92: -369150621
       Pause: 1328192801
       Pause icon: 798479447
+      SliderE: 535971923
+      SliderF: -1744228968
       background: -887840044
       button gross: 1027319841
       button gross pressed: -254931825
