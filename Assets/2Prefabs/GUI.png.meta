@@ -148,7 +148,7 @@ TextureImporter:
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 3, y: 2, z: 3, w: 2}
+      border: {x: 3, y: 3, z: 3, w: 3}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -349,16 +349,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUI_14
+      name: REgler
       rect:
         serializedVersion: 2
         x: 1
         y: 209
-        width: 14
+        width: 15
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1735,7 +1735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: menu
+      name: Menu button
       rect:
         serializedVersion: 2
         x: 129
@@ -2016,8 +2016,8 @@ TextureImporter:
         width: 45
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 3, y: 2, z: 2, w: 2}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 3, z: 4, w: 3}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2044,7 +2044,6 @@ TextureImporter:
       GUI_11: -1823157290
       GUI_12: -1320008998
       GUI_13: 1857299519
-      GUI_14: -1340208991
       GUI_15: 251882758
       GUI_16: 982170845
       GUI_17: 796359175
@@ -2120,8 +2119,10 @@ TextureImporter:
       GUI_90: -1165187720
       GUI_91: -1560460514
       GUI_92: -369150621
+      Menu button: 1753412108
       Pause: 1328192801
       Pause icon: 798479447
+      REgler: -1340208991
       SliderE: 535971923
       SliderF: -1744228968
       background: -887840044
@@ -2130,7 +2131,6 @@ TextureImporter:
       button klein: -786901853
       button klein pressed: 1541167100
       coin counter: -68876963
-      menu: 1753412108
       player info: 2039880238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
