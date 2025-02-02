@@ -831,6 +831,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Map Parts_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5ce69cc771f049ab26ebb201369e9
+      internalID: 1989353707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -867,6 +888,7 @@ TextureImporter:
       Map Parts_29: 403014858
       Map Parts_3: 2087582633
       Map Parts_30: 913773866
+      Map Parts_31: 1989353707
       Map Parts_4: -1532076380
       Map Parts_5: 487879050
       Map Parts_6: 2081586724

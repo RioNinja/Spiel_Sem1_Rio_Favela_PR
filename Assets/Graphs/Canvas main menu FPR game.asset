@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Canvas main menu FPR game
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":306.9886,"y":230.7412},"zoom":0.9000001,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"cc3ec3a9-55e1-4030-8f4c-903f03d45447","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"8e3c1e74-023f-4bae-9876-9bb8f51bdd8f","$version":"A","$type":"Unity.VisualScripting.Update"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Exit
+      to Desktop","$type":"System.String"},"object":null},"position":{"x":96.0,"y":-23.0},"guid":"b8829966-416c-4574-9f31-505bc1568c1b","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"13"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":386.0,"y":-20.0},"guid":"e397aaf4-d7c3-4f19-9a25-ab00b65901d6","$version":"A","$type":"Unity.VisualScripting.OnButtonClick","$id":"15"},{"chainable":false,"parameterNames":[],"member":{"name":"Quit","parameterTypes":[],"targetType":"UnityEngine.Application","targetTypeName":"UnityEngine.Application","$version":"A"},"defaultValues":{},"position":{"x":662.0,"y":-19.0},"guid":"89861d8a-710a-4d69-9fbb-a208ea56cd66","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"17"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Runn","$type":"System.String"},"object":null},"position":{"x":100.0,"y":145.0},"guid":"b67db937-d7c8-4b0d-ad7a-435c1ce31445","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"21"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":402.0,"y":156.0},"guid":"a48f0cc4-77b5-4246-b989-f16747e1cd8a","$version":"A","$type":"Unity.VisualScripting.OnButtonClick","$id":"23"},{"chainable":false,"parameterNames":["sceneName"],"member":{"name":"LoadScene","parameterTypes":["System.String"],"targetType":"UnityEngine.SceneManagement.SceneManager","targetTypeName":"UnityEngine.SceneManagement.SceneManager","$version":"A"},"defaultValues":{"%sceneName":{"$content":"2-Level1","$type":"System.String"}},"position":{"x":722.0,"y":138.0},"guid":"9a565d3c-db1a-4118-ad61-a585e90d4cd4","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"25"},{"sourceUnit":{"$ref":"15"},"sourceKey":"trigger","destinationUnit":{"$ref":"17"},"destinationKey":"enter","guid":"0d12bb46-dbfd-478e-bb63-eaf1b7451993","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"23"},"sourceKey":"trigger","destinationUnit":{"$ref":"25"},"destinationKey":"enter","guid":"a51b82fe-a8ad-4bb3-b6d3-be4f9b967eee","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"value","destinationUnit":{"$ref":"15"},"destinationKey":"target","guid":"5fbd79ac-a258-4748-8b87-2a6d0bd86228","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"value","destinationUnit":{"$ref":"23"},"destinationKey":"target","guid":"3970f541-fd1a-4b5e-922d-e4cbbc582d55","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

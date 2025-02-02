@@ -55,7 +55,7 @@ AudioMixerController:
   m_UpdateMode: 0
   m_ExposedParameters:
   - guid: dcd7d8822fbe01e42856d7f6936dd062
-    name: Efectvolume
+    name: SFXvolume
   - guid: e6e2d3b25021c174dbedc86702281657
     name: Mastervolume
   - guid: bbce23ad4d2803444918226afcf2dcd2

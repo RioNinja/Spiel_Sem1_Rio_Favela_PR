@@ -1,0 +1,2578 @@
+fileFormatVersion: 2
+guid: 744be2fcb76557741a928f1ac16e4f39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_0
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 4917
+        width: 403
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44193d708200f7b4c9f5e8acf43e8a4c
+      internalID: 2139017791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_1
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 4917
+        width: 403
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05fc533e3410d47be2766a8660e2c9
+      internalID: 1894515449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_2
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 4749
+        width: 464
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db71ce958e78b484b86180f40239205e
+      internalID: -1029127522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_3
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 4758
+        width: 484
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff8e6c3347b1274b85d0b61d2e3fb9a
+      internalID: 1036360135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_4
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 4678
+        width: 403
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663fc9493acaad64a94406d70d6e4473
+      internalID: -1208301369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_5
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 4597
+        width: 403
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493908c8c192b464face74ab6a7c7d46
+      internalID: 1716868109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_6
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 4597
+        width: 403
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8eafae36a4fec4894ab25f3bcdc84a
+      internalID: 27253250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_7
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 4597
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6efe1c51a3fb444094087f4cad81427
+      internalID: 248688514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_8
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 4597
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa90092cfbecb42aeb7c1487167a38
+      internalID: 410062055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_9
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 4597
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58f436157a741c44bcdb5563cdd410b
+      internalID: 1678124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_10
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 4597
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae2f82242984bd48b115b8c006c5984
+      internalID: 620646760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_11
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 4597
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208ef2ebb72b0984c82e84adb606f23b
+      internalID: 842039686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_12
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 4519
+        width: 403
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec43dfe0c7ce9d45b463e38702f8ad4
+      internalID: -333709231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_13
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 4358
+        width: 403
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642c62219946d54eb1f570cb761d3db
+      internalID: -1412569382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_14
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 4277
+        width: 86
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a13e5fead613419f07205c81ffadf
+      internalID: -1959631354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_15
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 4277
+        width: 83
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8280d7471002b4ebdab782d4048fdb
+      internalID: -1980357613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_16
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 4277
+        width: 86
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb4cc766fb9c09449c7f776343d4b7e
+      internalID: 870532141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_17
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 4277
+        width: 83
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1029dfbf44edd74a9151376704f6300
+      internalID: 1496990948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_18
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 4277
+        width: 83
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608bb90df27161478d4b9df313eb932
+      internalID: 780730718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre spray
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 4038
+        width: 403
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c5fd919585344d864f46d9b5f0c75
+      internalID: -143387218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_20
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 4038
+        width: 403
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf4fdf119b1a54ebb25cb67a0cdb0a
+      internalID: -1271691402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_21
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 4038
+        width: 403
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a721624490e04a9dc0d10a6e7614b
+      internalID: 596373663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_22
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 4119
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf2ad1cbbaba854885eec0441a06800
+      internalID: -1723045173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_23
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 4119
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b7075e0381e8c4f8145f9ed07b91f9
+      internalID: -577368915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_24
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 4119
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d2a6ae2aa406948b39447b9c286186
+      internalID: -1635575486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_25
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3557
+        width: 325
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acf8f0583ef2534f8a08b256f0eb137
+      internalID: 1551047544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_26
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3557
+        width: 325
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962b9f1f566112f438a02a30c22c7bcc
+      internalID: 614815867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_27
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 3557
+        width: 322
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff627e554a698904598a32547be1dc5d
+      internalID: 292953937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_28
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 3799
+        width: 86
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e45dd23fc54d14fb434ac9db141349
+      internalID: -1520967359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_29
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 3799
+        width: 83
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378c2d95fd397248a3c6936cdd1ab4f
+      internalID: 1945372528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_30
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3799
+        width: 86
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91215124b197664aa2370e55810c530
+      internalID: 1701356036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3679
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f024895857e864abb0bf0863b0b10f
+      internalID: 167940627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3428
+        width: 59
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46c25d763f7764ea919dcb89558490
+      internalID: -2054012321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3428
+        width: 59
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9e81af92c0574d94c1b7f041ed179
+      internalID: -935271059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3428
+        width: 58
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5506ab30f77cd004797b4cda5abc1d2e
+      internalID: -543389336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3428
+        width: 61
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f7d667054e4ff4f861e37fd86e3be1
+      internalID: 800867167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3428
+        width: 58
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58bcd492d33a040946cddeb88dcb06
+      internalID: 1182083392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_37
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3428
+        width: 59
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902bcdd7bd8a7fe43ba761a548a4797c
+      internalID: 1572153765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_38
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3428
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022316611f7fe984e94ac6fe51107425
+      internalID: -114205518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3428
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e068f7a577b0f4f9f1ffde523a21ac
+      internalID: 346801985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_40
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3428
+        width: 59
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e6595eaaea8724a8fa061e52dc9585
+      internalID: -449206736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3428
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69756d8091ee24f40a99c4cb4c3e491d
+      internalID: 1418510331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_42
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3428
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7defada1ec584e74985109ff386fe6d0
+      internalID: 1008754635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_43
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 3428
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769fad6d83fe9aa48b9801e531dfbef3
+      internalID: 457060480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_44
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3428
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4634eb01dcef4a40816521393bb4e5c
+      internalID: -1897304276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3169
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4a3a3294ebe046be376639ca8ac58
+      internalID: 513024910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3169
+        width: 75
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d528ea3ca519bb40875ea3ab7a3edb8
+      internalID: -463051998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3169
+        width: 49
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166df6d5869e564e964adad53bfafeb
+      internalID: 1932511854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3169
+        width: 58
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5be8b4e3214384a88bd1b04cc4fbfe
+      internalID: 321761288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_49
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3188
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43c315f9db5ac4b981e856331b5bff
+      internalID: -249382290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3188
+        width: 78
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e02a4867b98d419c03f2062458070
+      internalID: 2096486144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_51
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3188
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e70ba8da5df73429a220e82453e5f3
+      internalID: -295997262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_52
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3188
+        width: 134
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d4505dbbd2214498706f4e687aa078
+      internalID: -2101756377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_53
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 3188
+        width: 149
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a2647d551f6834a8af1cd25aa3dc26
+      internalID: 1168676339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_54
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3188
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61295c11ef8ede649baaede37c53a7b3
+      internalID: 1303700546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_55
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3188
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d715016e711320e418dc9fc68a13d640
+      internalID: 229495715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_56
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3188
+        width: 139
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024990440fa26884b8e82af153e18959
+      internalID: -305274006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_57
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3188
+        width: 124
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d0c423ed6a4a478498e4842830202
+      internalID: -1758709693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_58
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3188
+        width: 83
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b9933e1c2d11458ce6f05163688d3
+      internalID: 191519489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_59
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3188
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd27d721f9b0a447a65b539edad2403
+      internalID: -654799404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_60
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3188
+        width: 73
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903c4f7eb793b1346841ba75aaaaf27e
+      internalID: 807602010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_61
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3223
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ab33006ecb0a54db4873e890bb7fa5
+      internalID: 373535506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_62
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 3188
+        width: 85
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f9946dc375a2c42ae246810727692f
+      internalID: -240993203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_63
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 2917
+        width: 330
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182ecc65a13cca4887c0957115e1acb
+      internalID: -718511015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_64
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 2917
+        width: 324
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a795deb3756948873604286cae1f2
+      internalID: -571551715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_65
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 3318
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66883e465390a7249903cb78da3789c6
+      internalID: 263908131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_66
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 3318
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28821ee50feaff74fb4bab15114996af
+      internalID: 287771048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_67
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 3237
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24958f915d9da4c828922001137a06
+      internalID: -1879234449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_68
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3237
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fbd8b619618544aee0e057cf0ea04
+      internalID: 883898839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_69
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 3237
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5e90563755ee489b50139a2441377
+      internalID: -1045107839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_70
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3237
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc13b5ed6dd0114780b5d2923899a80
+      internalID: -1879744319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_71
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 3113
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cdbd0d541224c42bc30dd3183470fa
+      internalID: 1685002791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_72
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 3159
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1e553e5140914f8437a0f9fa5ec8d
+      internalID: 1197933423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2964
+        width: 105
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a4c2f4b18a774fbfc423a9b46ee3e
+      internalID: 760847111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2964
+        width: 78
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fa1e8440ddc847b467322ca5caeba
+      internalID: -81021361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_75
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2869
+        width: 325
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4cc43991b4a1408aa23cb29ff1bcc
+      internalID: 2091785066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_76
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2869
+        width: 244
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258fa78ce60b49f4f8f33f2a00208d5a
+      internalID: -1360026049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_77
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2869
+        width: 325
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728c488948ff5940b8df254e8662820
+      internalID: -2070636897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_78
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2869
+        width: 325
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd41319c5ac074fbbafbd04a73aa7e
+      internalID: 187446729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_79
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 2917
+        width: 244
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144c5a909110a814a82789b20a174e5a
+      internalID: -1530373546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_80
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 2998
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17546fccc1c830c47a5f30083c9f38d2
+      internalID: 130408897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2563
+        width: 144
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edfd7f421e7bb49bd3dc700b50b8e4
+      internalID: 3784203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_82
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2563
+        width: 154
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b445962857f840af85208c227ca01
+      internalID: -2023113958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_83
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2563
+        width: 154
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec54ab06b2b8d1348b3f0ce5b7fea73d
+      internalID: -1837143178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_84
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 2439
+        width: 402
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657bd819e1d9604cba147896575329c
+      internalID: 444454263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_85
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 2439
+        width: 405
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835845021aa6ad94aa2665afd3fcf3be
+      internalID: 114154110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_86
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 2598
+        width: 244
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d98f2a16ab2b408a57979cff001ff
+      internalID: -1194860687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_87
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 2598
+        width: 561
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeca2bf819f9ff4baab285c6b92857c
+      internalID: -1626397379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_88
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1973
+        width: 425
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5934819ea9c71f4190de0ce46517d44
+      internalID: 170864107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_89
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2278
+        width: 85
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7cef97a7d35948bf6628bd1250b93
+      internalID: -1279088871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_90
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 2358
+        width: 244
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b5ac162ab0f846b10a933d768ecca
+      internalID: 503668825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_91
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 2439
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa17e3e4e2d6c243a7f9d2f22eddb81
+      internalID: 2046708307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_92
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1958
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce54d2c51d30278498b9fdb44435265c
+      internalID: -1622415612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_93
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2053
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ac89513f5fa04e8dd1377984e7e4f
+      internalID: 2066860466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_94
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2058
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fbd6451edfb314b81e020650a4bf74
+      internalID: 1567021147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_95
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1958
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2067cde5fd87d4e8a55f6b6a0dd9b1
+      internalID: -289575272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_96
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2053
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439cabaef4a951a40ab12e5cf6128ac4
+      internalID: -635243412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_97
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1958
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3273dd3f83e2c44b4be5cbb8257136
+      internalID: -267876949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaGG
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1638
+        width: 803
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e612b002a4bd4b45a61907298424bf2
+      internalID: 396070633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_99
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 1877
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90668291749a447bf52c52acfa443b
+      internalID: -663724686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_100
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2043
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052cf212d3123824bb093a8314aaa4a6
+      internalID: -1313514869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_101
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2048
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbb978096a4fc439477d2c34ee97c2
+      internalID: -1574107680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuaPlaca
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1777
+        width: 244
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99beef5c61823e44a31c7701a4ca5fb
+      internalID: 400274805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_103
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1472
+        width: 486
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb9945c360f2345b5549f033d40223
+      internalID: 1301325998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_104
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1477
+        width: 166
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf99422dd20794e958fe5bc0d5ae26
+      internalID: 1285814840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Posteg
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 54
+        width: 708
+        height: 1428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13cab01fed767641b445bb0c3712a6c
+      internalID: 918349352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantaPP
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1157
+        width: 154
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d105db6ffefff4d84940934f77c202
+      internalID: 928954379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantaG
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 518
+        width: 469
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e7e792697c574e88f6413af5bb285
+      internalID: -2143200288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arvore
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 518
+        width: 505
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b5c8e258eb134a8ac1e3bd34c70da
+      internalID: -1249830343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rio 2D Assets Summery-25-final_109
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 78
+        width: 1152
+        height: 1123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c583af492a8b649bd04d40172c0f83
+      internalID: -1089544635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantaP
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 518
+        width: 259
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdccbb908bded54ba885359b6b40ba9
+      internalID: -72477224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poste
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 39
+        width: 605
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac0096c802049498cbc286770767a2
+      internalID: -598827787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arvore: -1249830343
+      CasaGG: 396070633
+      PlantaG: -2143200288
+      PlantaP: -72477224
+      PlantaPP: 928954379
+      Poste: -598827787
+      Posteg: 918349352
+      Rio 2D Assets Summery-25-final_0: 2139017791
+      Rio 2D Assets Summery-25-final_1: 1894515449
+      Rio 2D Assets Summery-25-final_10: 620646760
+      Rio 2D Assets Summery-25-final_100: -1313514869
+      Rio 2D Assets Summery-25-final_101: -1574107680
+      Rio 2D Assets Summery-25-final_103: 1301325998
+      Rio 2D Assets Summery-25-final_104: 1285814840
+      Rio 2D Assets Summery-25-final_109: -1089544635
+      Rio 2D Assets Summery-25-final_11: 842039686
+      Rio 2D Assets Summery-25-final_12: -333709231
+      Rio 2D Assets Summery-25-final_13: -1412569382
+      Rio 2D Assets Summery-25-final_14: -1959631354
+      Rio 2D Assets Summery-25-final_15: -1980357613
+      Rio 2D Assets Summery-25-final_16: 870532141
+      Rio 2D Assets Summery-25-final_17: 1496990948
+      Rio 2D Assets Summery-25-final_18: 780730718
+      Rio 2D Assets Summery-25-final_2: -1029127522
+      Rio 2D Assets Summery-25-final_20: -1271691402
+      Rio 2D Assets Summery-25-final_21: 596373663
+      Rio 2D Assets Summery-25-final_22: -1723045173
+      Rio 2D Assets Summery-25-final_23: -577368915
+      Rio 2D Assets Summery-25-final_24: -1635575486
+      Rio 2D Assets Summery-25-final_25: 1551047544
+      Rio 2D Assets Summery-25-final_26: 614815867
+      Rio 2D Assets Summery-25-final_27: 292953937
+      Rio 2D Assets Summery-25-final_28: -1520967359
+      Rio 2D Assets Summery-25-final_29: 1945372528
+      Rio 2D Assets Summery-25-final_3: 1036360135
+      Rio 2D Assets Summery-25-final_30: 1701356036
+      Rio 2D Assets Summery-25-final_31: 167940627
+      Rio 2D Assets Summery-25-final_32: -2054012321
+      Rio 2D Assets Summery-25-final_33: -935271059
+      Rio 2D Assets Summery-25-final_34: -543389336
+      Rio 2D Assets Summery-25-final_35: 800867167
+      Rio 2D Assets Summery-25-final_36: 1182083392
+      Rio 2D Assets Summery-25-final_37: 1572153765
+      Rio 2D Assets Summery-25-final_38: -114205518
+      Rio 2D Assets Summery-25-final_39: 346801985
+      Rio 2D Assets Summery-25-final_4: -1208301369
+      Rio 2D Assets Summery-25-final_40: -449206736
+      Rio 2D Assets Summery-25-final_41: 1418510331
+      Rio 2D Assets Summery-25-final_42: 1008754635
+      Rio 2D Assets Summery-25-final_43: 457060480
+      Rio 2D Assets Summery-25-final_44: -1897304276
+      Rio 2D Assets Summery-25-final_45: 513024910
+      Rio 2D Assets Summery-25-final_46: -463051998
+      Rio 2D Assets Summery-25-final_47: 1932511854
+      Rio 2D Assets Summery-25-final_48: 321761288
+      Rio 2D Assets Summery-25-final_49: -249382290
+      Rio 2D Assets Summery-25-final_5: 1716868109
+      Rio 2D Assets Summery-25-final_50: 2096486144
+      Rio 2D Assets Summery-25-final_51: -295997262
+      Rio 2D Assets Summery-25-final_52: -2101756377
+      Rio 2D Assets Summery-25-final_53: 1168676339
+      Rio 2D Assets Summery-25-final_54: 1303700546
+      Rio 2D Assets Summery-25-final_55: 229495715
+      Rio 2D Assets Summery-25-final_56: -305274006
+      Rio 2D Assets Summery-25-final_57: -1758709693
+      Rio 2D Assets Summery-25-final_58: 191519489
+      Rio 2D Assets Summery-25-final_59: -654799404
+      Rio 2D Assets Summery-25-final_6: 27253250
+      Rio 2D Assets Summery-25-final_60: 807602010
+      Rio 2D Assets Summery-25-final_61: 373535506
+      Rio 2D Assets Summery-25-final_62: -240993203
+      Rio 2D Assets Summery-25-final_63: -718511015
+      Rio 2D Assets Summery-25-final_64: -571551715
+      Rio 2D Assets Summery-25-final_65: 263908131
+      Rio 2D Assets Summery-25-final_66: 287771048
+      Rio 2D Assets Summery-25-final_67: -1879234449
+      Rio 2D Assets Summery-25-final_68: 883898839
+      Rio 2D Assets Summery-25-final_69: -1045107839
+      Rio 2D Assets Summery-25-final_7: 248688514
+      Rio 2D Assets Summery-25-final_70: -1879744319
+      Rio 2D Assets Summery-25-final_71: 1685002791
+      Rio 2D Assets Summery-25-final_72: 1197933423
+      Rio 2D Assets Summery-25-final_73: 760847111
+      Rio 2D Assets Summery-25-final_74: -81021361
+      Rio 2D Assets Summery-25-final_75: 2091785066
+      Rio 2D Assets Summery-25-final_76: -1360026049
+      Rio 2D Assets Summery-25-final_77: -2070636897
+      Rio 2D Assets Summery-25-final_78: 187446729
+      Rio 2D Assets Summery-25-final_79: -1530373546
+      Rio 2D Assets Summery-25-final_8: 410062055
+      Rio 2D Assets Summery-25-final_80: 130408897
+      Rio 2D Assets Summery-25-final_81: 3784203
+      Rio 2D Assets Summery-25-final_82: -2023113958
+      Rio 2D Assets Summery-25-final_83: -1837143178
+      Rio 2D Assets Summery-25-final_84: 444454263
+      Rio 2D Assets Summery-25-final_85: 114154110
+      Rio 2D Assets Summery-25-final_86: -1194860687
+      Rio 2D Assets Summery-25-final_87: -1626397379
+      Rio 2D Assets Summery-25-final_88: 170864107
+      Rio 2D Assets Summery-25-final_89: -1279088871
+      Rio 2D Assets Summery-25-final_9: 1678124829
+      Rio 2D Assets Summery-25-final_90: 503668825
+      Rio 2D Assets Summery-25-final_91: 2046708307
+      Rio 2D Assets Summery-25-final_92: -1622415612
+      Rio 2D Assets Summery-25-final_93: 2066860466
+      Rio 2D Assets Summery-25-final_94: 1567021147
+      Rio 2D Assets Summery-25-final_95: -289575272
+      Rio 2D Assets Summery-25-final_96: -635243412
+      Rio 2D Assets Summery-25-final_97: -267876949
+      Rio 2D Assets Summery-25-final_99: -663724686
+      RuaPlaca: 400274805
+      Torre spray: -143387218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
