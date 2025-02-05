@@ -10,6 +10,8 @@ TagManager:
   - Interactable
   - End
   - Pause menu
+  - EEE
+  - Endgame
   layers:
   - Default
   - TransparentFX
